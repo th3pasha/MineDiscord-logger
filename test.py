@@ -1,13 +1,20 @@
-def read_file():
-    with open("latest.log", "r") as f:
-        SMRF1 = f.readlines()
-    return SMRF1
-
-initial = read_file()
-while True:
-    current = read_file()
-    if initial != current:
-        for line in current:
-            if line not in initial:
-                print(line)
-        initial = current
+with open('latest.log', 'r') as f:
+    for line in f:
+        if '[Server thread/WARN]' in line:
+            continue
+        if 'logged in with entity id' in line:
+            continue
+        if 'Disconnecting' in line:
+            continue
+        if 'Disconnected' in line:
+            continue
+        if '[Not Secure]' in line:
+            continue
+        if 'Timed out' in line:
+            continue
+        if 'com.mojang.authlib.GameProfile' in line:
+            continue
+        else:
+            out_line = line.replace('[Server thread/INFO]', '')
+            with open('log.log', 'a') as out_file:
+                out_file.write(out_line)

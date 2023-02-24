@@ -1,3 +1,5 @@
+[16:39:08] [Server thread/INFO]: zhossin lost connection: Disconnected
+[16:39:08] [Server thread/INFO]: zhossin left the game
 [16:28:42] [Server thread/INFO]: niksoooos lost connection: Disconnected
 [16:28:42] [Server thread/INFO]: niksoooos left the game
 [16:30:47] [Server thread/INFO]: ElPasha[/196.64.233.149:64414] logged in with entity id 834427 at (10992.209391278268, 69.0, -289.2674277450425)
@@ -16,5 +18,8 @@
 [17:15:48] [Server thread/INFO]: niksoooos[/41.142.164.105:53350] logged in with entity id 842404 at (-977.5850922895837, 65.0, -218.6136233488688)
 [17:15:48] [Server thread/INFO]: niksoooos joined the game
 [17:15:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9391ms or 187 ticks behind
-this is what i am talking avbout
-dskjns
+[17:00:39] [Server thread/WARN]: Nn_ayman_nN001 moved too quickly! 9.313111968695353,-0.20000004768371582,-4.015673011056947
+[17:15:48] [Server thread/INFO]: niksoooos[/41.142.164.105:53350] logged in with entity id 842404 at (-977.5850922895837, 65.0, -218.6136233488688)
+[17:15:48] [Server thread/INFO]: niksoooos joined the game
+[17:15:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9391ms or 187 ticks behind
+d

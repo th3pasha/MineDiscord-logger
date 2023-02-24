@@ -1,0 +1,20 @@
+[16:28:42] [Server thread/INFO]: niksoooos lost connection: Disconnected
+[16:28:42] [Server thread/INFO]: niksoooos left the game
+[16:30:47] [Server thread/INFO]: ElPasha[/196.64.233.149:64414] logged in with entity id 834427 at (10992.209391278268, 69.0, -289.2674277450425)
+[16:30:47] [Server thread/INFO]: ElPasha joined the game
+[16:30:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3645ms or 72 ticks behind
+[16:31:40] [Server thread/INFO]: ElPasha lost connection: Disconnected
+[16:31:40] [Server thread/INFO]: ElPasha left the game
+[16:36:32] [Server thread/INFO]: zhossin[/196.64.233.149:57652] logged in with entity id 834976 at (-2.5, 72.0, 10.5)
+[16:36:32] [Server thread/INFO]: zhossin joined the game
+[16:36:50] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@27e668ce[id=27c763fe-84e7-34f2-adf9-45b43c088185,name=niksooosDTB,properties={},legacy=false] (/41.142.164.105:52327): You are not white-listed on this server!
+[16:36:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@27e668ce[id=27c763fe-84e7-34f2-adf9-45b43c088185,name=niksooosDTB,properties={},legacy=false] (/41.142.164.105:52327) lost connection: You are not white-listed on this server!
+[16:36:50] [Server thread/WARN]: handleDisconnection() called twice
+[16:39:08] [Server thread/INFO]: zhossin lost connection: Disconnected
+[16:39:08] [Server thread/INFO]: zhossin left the game
+[17:00:39] [Server thread/WARN]: Nn_ayman_nN001 moved too quickly! 9.313111968695353,-0.20000004768371582,-4.015673011056947
+[17:15:48] [Server thread/INFO]: niksoooos[/41.142.164.105:53350] logged in with entity id 842404 at (-977.5850922895837, 65.0, -218.6136233488688)
+[17:15:48] [Server thread/INFO]: niksoooos joined the game
+[17:15:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9391ms or 187 ticks behind
+this is what i am talking avbout
+dskjns

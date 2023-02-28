@@ -14,7 +14,7 @@ roleID = '1075921667454419036'
 
 commandPrefix = '/'
 command = 'minecraft'
-token = 'MTA3ODA3NjMzMTg1NTcyODgwMA.G-qlre.xVYtjK9AGHTqjzvz1OvroRLccw3nDbqck9K3CU'
+token = ''
 
 bot = discord.Client(intents=intents)
 
